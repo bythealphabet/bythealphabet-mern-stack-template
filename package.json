@@ -1,0 +1,34 @@
+{
+  "name": "bythealphabet-mern-stack-template",
+  "version": "1.0.0",
+  "description": "A template for building MERN stack web applications.",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bythealphabet/bythealphabet-mern-stack-template.git"
+  },
+  "keywords": [
+    "MERN",
+    "REACTJS",
+    "NODE",
+    "MONGO",
+    "MONGOOSE",
+    "EXPRESS"
+  ],
+  "author": "Dudley Isaac Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bythealphabet/bythealphabet-mern-stack-template/issues"
+  },
+  "homepage": "https://github.com/bythealphabet/bythealphabet-mern-stack-template#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-loader": "^8.2.2",
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.3.0"
+  }
+}
